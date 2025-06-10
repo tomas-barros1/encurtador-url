@@ -17,7 +17,7 @@ Um serviço de encurtamento de URLs moderno e eficiente construído com Spring B
 - MongoDB
 - Docker & Docker Compose
 - Swagger/OpenAPI
-
+- Junit e Mockito
 ## 🚀 Como Executar
 
 1. Clone o repositório:
